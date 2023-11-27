@@ -1,5 +1,5 @@
 <launch>
-  <arg name="configuration" default="base_local_planner" />
+  <arg name="configuration" default="teb_local_planner" />
  
   <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
 

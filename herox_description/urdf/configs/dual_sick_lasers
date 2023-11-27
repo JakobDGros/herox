@@ -1,7 +1,0 @@
-# The dual_laser configuration of HEROX with
-# SICK nanoScan3 laser scanner on the
-# front and rear.
-
-HEROX_FRONT_NANOSCAN_LASER=1
-HEROX_REAR_NANOSCAN_LASER=1
-
